@@ -1,0 +1,19 @@
+# Lingkungan & rahasia
+.env
+*.local
+
+# Backend
+backend/bin/
+backend/storage/
+backend/*.exe
+*.log
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+
+# Editor / OS
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

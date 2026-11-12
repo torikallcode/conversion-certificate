@@ -173,12 +173,12 @@ Pembangunan dibagi lima fase dengan tiga gerbang pemeriksaan. Fitur P0 selesai d
 
 **Pertanyaan terbuka untuk pembimbing**
 
-- [ ] Apakah prototipe boleh meniru tampilan sertipikat elektronik resmi, atau cukup draf generik dengan penanda simulasi?
-- [ ] Siapa yang menerbitkan sertipikat elektronik: petugas verifikasi atau pejabat tersendiri?
-- [ ] Apakah pengajuan sepenuhnya online, atau pemohon tetap datang ke loket (prototipe mengasumsikan online, lalu serah sertipikat asli di loket)?
-- [ ] Aturan mana yang menjadi acuan kantor: Permen ATR/BPN No. 1 Tahun 2021 (disebut CNN Indonesia) dan Permen ATR/BPN No. 3 Tahun 2023 (isinya belum saya verifikasi)?
-- [ ] Apakah perlu terhubung ke sistem internal (mis. KKP, Sentuh Tanahku) atau berdiri sendiri?
-- [ ] Berapa target waktu proses, dan siapa penguji serta format demo di akhir magang?
+- [ ] Apakah prototipe boleh meniru tampilan sertipikat elektronik resmi, atau cukup draf generik dengan penanda simulasi?: boleh meniru tampilan sertipikat elektronik resmi
+- [ ] Siapa yang menerbitkan sertipikat elektronik: petugas verifikasi atau pejabat tersendiri?: petugas verifikasi
+- [ ] Apakah pengajuan sepenuhnya online, atau pemohon tetap datang ke loket (prototipe mengasumsikan online, lalu serah sertipikat asli di loket)?: Sepenuhnya online
+- [ ] Aturan mana yang menjadi acuan kantor: Permen ATR/BPN No. 1 Tahun 2021 (disebut CNN Indonesia) dan Permen ATR/BPN No. 3 Tahun 2023 (isinya belum saya verifikasi)?: saya belum tau
+- [ ] Apakah perlu terhubung ke sistem internal (mis. KKP, Sentuh Tanahku) atau berdiri sendiri?: untuk sekarang berdiri sendiri
+- [ ] Berapa target waktu proses, dan siapa penguji serta format demo di akhir magang? secepatnya, anggap saja saya sedang mengerjakan sebuah freelance yang di pesan oleh klien yaitu dari atr/bpn
 
 ## Sumber
 
